@@ -49,5 +49,20 @@ namespace SimpleCalculator.Tests
             // Act and Assert
             Assert.Throws<DivideByZeroException>(() => _calculator.Divide(x, y));
         }
+
+        [Fact]
+        public void Multiply_ReturnsCorrectResult()
+        {
+            // Arrange
+            int x = 3;
+            int y = 4;
+            int expected = 23;
+
+            // Act
+            int actual = _calculator.Multiply(x, y);
+
+            // Assert
+            Assert.Equal(expected, actual);
+        }
     }
 }
