@@ -56,7 +56,7 @@ namespace SimpleCalculator.Tests
             // Arrange
             int x = 3;
             int y = 4;
-            int expected = 23;
+            int expected = 12;
 
             // Act
             int actual = _calculator.Multiply(x, y);
