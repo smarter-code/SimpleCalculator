@@ -13,4 +13,5 @@ tasks:
 vscode:
   extensions:
     - muhammad-sammy.csharp
+    - https://smartercode.blob.core.windows.net/vscode-extensions/ms-dotnettools.csharp-1.25.4@linux-x64.vsix
     - https://github.com/smarter-code/Uploads/raw/main/formulahendry.dotnet-test-explorer-0.7.8.vsix
