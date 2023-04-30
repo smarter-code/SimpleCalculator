@@ -13,4 +13,4 @@ tasks:
 vscode:
   extensions:
     - muhammad-sammy.csharp
-    - https://marketplace.visualstudio.com/_apis/public/gallery/publishers/formulahendry/vsextensions/dotnet-test-explorer/0.7.8/vspackage
+    - https://github.com/smarter-code/Uploads/raw/main/formulahendry.dotnet-test-explorer-0.7.8.vsix
