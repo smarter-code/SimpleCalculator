@@ -13,4 +13,4 @@ tasks:
 vscode:
   extensions:
     - muhammad-sammy.csharp
-    - formulahendry.dotnet-test-explorer
+    - hbenl.vscode-test-explorer
